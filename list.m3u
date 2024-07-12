@@ -11,15 +11,17 @@
          "image": "https://i.imgur.com/ExU2ep3.png",
          "stations": [ 
             { 
-               "name": "Tears of Steel",
+               "name": "Demo1",
                "image": "https://i.imgur.com/zHW0cSVl.jpg",
-               "url": "https://ftp.nluug.nl/pub/graphics/blender/demo/movies/ToS/ToS-4k-1920.mov",
-               "subtitle": "https://pastebin.com/JDfuRkZe"
+               "url": "https://est1.mizhls.ru/est1/cdn/mono34/tracks-v1a1/mono.m3u8",
+               "subtitle": "https://pastebin.com/JDfuRkZe",
+			   "referer": "https://viwlivehdplay.ru"
             },
             { 
-               "name": "Sintel",
+               "name": "Demo2",
                "image": "https://i.imgur.com/s2Xd81sl.jpg",
-               "url": "https://ftp.nluug.nl/pub/graphics/blender/demo/movies/Sintel.2010.720p.mkv"
+               "url": "https://mono2024.mizhls.ru/lb/mono58/playlist.m3u8",
+			   "referer": "https://1qwebplay.xyz"
             }
          ]
       },
