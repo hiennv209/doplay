@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="" x-tvg-author="Duk" x-tvg-name="Categories Name"
+#EXTM3U x-tvg-url="" x-tvg-author="Duk" x-tvg-name="Categories Name" x-tvg-logo="https://api.sofascore.app/api/v1/unique-tournament/17015/image"
 #EXTINF:-1 tvg-name="Struga T&L - Pyunik" tvg-logo="https://api.sofascore.app/api/v1/unique-tournament/17015/image" tvg-id="25632" group-title="UEFA Conference League" tvg-time="2024-07-24 15:00:00" tvg-ref="https://choosingnothing.com"
 https://ayoongee7een3e.choosingnothing.com/hls/eb978db7c758629a-34e6feb84d4b1c27b96649f49cd5e0f39955a7250b3aaa2b3cdef2a047ff1a93/live.m3u8
 #EXTINF:-1 tvg-name="Struga T&L - Pyunik" tvg-logo="https://api.sofascore.app/api/v1/unique-tournament/17015/image" tvg-id="25632" group-title="UEFA Conference League" tvg-time="2024-07-24 15:00:00" tvg-ref="https://choosingnothing.com"
