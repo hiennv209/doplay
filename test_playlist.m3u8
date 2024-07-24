@@ -1,0 +1,14 @@
+#EXTM3U x-tvg-url="" x-tvg-author="Duk" x-tvg-name="Categories Name"
+#EXTINF:-1 tvg-name="Struga T&L - Pyunik" tvg-logo="https://api.sofascore.app/api/v1/unique-tournament/17015/image" tvg-id="25632" group-title="UEFA Conference League" tvg-time="2024-07-24 15:00:00" tvg-ref="https://choosingnothing.com"
+https://ayoongee7een3e.choosingnothing.com/hls/eb978db7c758629a-34e6feb84d4b1c27b96649f49cd5e0f39955a7250b3aaa2b3cdef2a047ff1a93/live.m3u8
+#EXTINF:-1 tvg-name="Struga T&L - Pyunik" tvg-logo="https://api.sofascore.app/api/v1/unique-tournament/17015/image" tvg-id="25632" group-title="UEFA Conference League" tvg-time="2024-07-24 15:00:00" tvg-ref="https://choosingnothing.com"
+https://7f6335dfeb2a39.choosingnothing.com/hls/47753b46b2b2ead2-3962a2d92a095f2a1ed7d071592f8137e40141fd35855ed81fc2d0b0bf0f9c87/live.m3u8
+#EXTINF:-1 tvg-name="Riga - Śląsk" tvg-logo="https://api.sofascore.app/api/v1/unique-tournament/17015/image" tvg-id="25587" group-title="UEFA Europa Conference League"
+#EXTINF:-1 tvg-name="Dinamo Batumi - FK Dečić" tvg-logo="https://api.sofascore.app/api/v1/unique-tournament/17015/image" tvg-id="25625" group-title="UEFA Conference League"
+#EXTINF:-1 tvg-name="PAOK - Borac" tvg-logo="https://api.sofascore.app/api/v1/unique-tournament/7/image" tvg-id="25614" group-title="UEFA Champions League"
+#EXTINF:-1 tvg-name="Ludogorets - Dinamo Minsk" tvg-logo="https://api.sofascore.app/api/v1/unique-tournament/7/image" tvg-id="25612" group-title="UEFA Champions League"
+#EXTINF:-1 tvg-name="AEK - Inter" tvg-logo="https://api.sofascore.app/api/v1/unique-tournament/17015/image" tvg-id="25651" group-title="UEFA Conference League"
+#EXTINF:-1 tvg-name="Celje - Slovan" tvg-logo="https://api.sofascore.app/api/v1/unique-tournament/7/image" tvg-id="25613" group-title="UEFA Champions League"
+#EXTINF:-1 tvg-name="Cliftonville FC - Auda" tvg-logo="https://api.sofascore.app/api/v1/unique-tournament/17015/image" tvg-id="25654" group-title="UEFA Conference League"
+#EXTINF:-1 tvg-name="KuPS - Tromsø" tvg-logo="https://api.sofascore.app/api/v1/unique-tournament/17015/image" tvg-id="25638" group-title="UEFA Conference League"
+#EXTINF:-1 tvg-name="Wisła Kraków - Rapid" tvg-logo="https://api.sofascore.app/api/v1/unique-tournament/679/image" tvg-id="25616" group-title="UEFA Europa League"
