@@ -13,14 +13,15 @@
             { 
                "name": "STReam",
                "image": "https://i.imgur.com/zHW0cSVl.jpg",
-               "url": "https://ayoongee7een3e.choosingnothing.com/hls/eb978db7c758629a-34e6feb84d4b1c27b96649f49cd5e0f39955a7250b3aaa2b3cdef2a047ff1a93/live.m3u8",
+               "url": "https://ayoongee7een3e.choosingnothing.com/hls/7d59b57a675b1859-640f0cecfed6f2eaa9cbf350453eea3783629173650a860b3e911065cea6ae37/live.m3u8",
                "subtitle": "https://pastebin.com/JDfuRkZe",
 			   "referer": "https://choosingnothing.com"
             },
             { 
                "name": "Sintel",
                "image": "https://i.imgur.com/s2Xd81sl.jpg",
-               "url": "https://ayoongee7een3e.choosingnothing.com/hls/eb978db7c758629a-34e6feb84d4b1c27b96649f49cd5e0f39955a7250b3aaa2b3cdef2a047ff1a93/live.m3u8"
+               "url": "https://7f6335dfeb2a39.choosingnothing.com/hls/0df45df367754ee6-166fd324fb299bd61e206f5df1c6db9b390869ff37688b1e842629dafcbadd7a/live.m3u8",
+			   "referer": "https://choosingnothing.com"
             }
          ]
       },
@@ -40,26 +41,5 @@
             }
          ]
       }
-   ],
-   "stations": [
-      {
-         "name": "Timelapse Paris",
-         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Timelapse_Tour_Eiffel_%C3%A0_Paris.webm/800px--Timelapse_Tour_Eiffel_%C3%A0_Paris.webm.jpg",
-         "imageScale": "centerCrop",
-         "url": "https://commons.wikimedia.org/wiki/File:Timelapse_Tour_Eiffel_%C3%A0_Paris.webm",
-         "isHost": true
-      },
-      {
-         "name": "HTML5 Video",
-         "image": "https://i.imgur.com/sjrn6Ii.png",
-         "url": "http://clappr.io/demo/",
-         "embed": true
-      },
-      {
-         "name": "Me at the zoo",
-         "image": "https://img.youtube.com/vi/jNQXAC9IVRw/0.jpg",
-         "imageScale": "centerCrop",
-         "url": "https://www.youtube.com/watch?v=jNQXAC9IVRw"
-      }
-  ]
+   ]
 }
