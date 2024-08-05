@@ -1,8 +1,8 @@
 #EXTM3U x-tvg-url="" x-tvg-author="Duk" x-tvg-name="Categories Name" x-tvg-logo="https://i.imgur.com/5rjqSPj.png"
-#EXTINF:-1 tvg-name="Link REF 01" tvg-logo="https://t4.ftcdn.net/jpg/01/33/48/03/240_F_133480376_PWlsZ1Bdr2SVnTRpb8jCtY59CyEBdoUt.jpg" tvg-id="12079" tvg-ref="https://decmelfot.xyz/" group-id="26317" group-time="1723375800" group-logo="https://api.sofascore.app/api/v1/unique-tournament/853/image" group-title="Liverpool - Sevilla", Liverpool - Sevilla
+#EXTINF:-1 tvg-name="Link REF 01" tvg-logo="https://t4.ftcdn.net/jpg/01/33/48/03/240_F_133480376_PWlsZ1Bdr2SVnTRpb8jCtY59CyEBdoUt.jpg" tvg-id="12079" tvg-ref="https://decmelfot.xyz" group-id="26317" group-time="1723375800" group-logo="https://api.sofascore.app/api/v1/unique-tournament/853/image" group-title="Liverpool - Sevilla", Liverpool - Sevilla
 https://freehdgames.lol/chunklist/hlsch3.m3u8
-#EXTINF:-1 tvg-name="Link không cần Ref" tvg-logo="https://t4.ftcdn.net/jpg/01/33/48/03/240_F_133480376_PWlsZ1Bdr2SVnTRpb8jCtY59CyEBdoUt.jpg" tvg-id="12080" tvg-ref="Link không cần Ref" group-id="26317" group-time="1723375800" group-logo="https://api.sofascore.app/api/v1/unique-tournament/853/image" group-title="Liverpool - Sevilla", Liverpool - Sevilla
-https://vtvgolive-vtv.vtvdigital.vn/69gQP6z6i1xkDHh_YlWGkg/1722773486/vtvgo/vtv3-manifest.m3u8
+#EXTINF:-1 tvg-name="Link Ref 02" tvg-logo="https://t4.ftcdn.net/jpg/01/33/48/03/240_F_133480376_PWlsZ1Bdr2SVnTRpb8jCtY59CyEBdoUt.jpg" tvg-id="12080" tvg-ref="https://1stream.eu" group-id="26317" group-time="1723375800" group-logo="https://api.sofascore.app/api/v1/unique-tournament/853/image" group-title="Liverpool - Sevilla", Liverpool - Sevilla
+https://goozp2.djk87uujdj4nsd.shop/playlist/24359/goozr.uyyvbc4558d6gg.shop/caxi.m3u8
 #EXTINF:-1 tvg-name="NASA" tvg-logo="https://t4.ftcdn.net/jpg/01/33/48/03/240_F_133480376_PWlsZ1Bdr2SVnTRpb8jCtY59CyEBdoUt.jpg" tvg-id="12081" tvg-ref="NASA" group-id="26317" group-time="1723375800" group-logo="https://api.sofascore.app/api/v1/unique-tournament/853/image" group-title="Liverpool - Sevilla", Liverpool - Sevilla
 https://stream.nasatv.com.mk/hls/nasatv_live.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="" tvg-id="" tvg-ref=""  group-id="26300" group-time="1723379400" group-logo="https://api.sofascore.app/api/v1/unique-tournament/37/image" group-title="Utrecht - Zwolle", Utrecht - Zwolle
